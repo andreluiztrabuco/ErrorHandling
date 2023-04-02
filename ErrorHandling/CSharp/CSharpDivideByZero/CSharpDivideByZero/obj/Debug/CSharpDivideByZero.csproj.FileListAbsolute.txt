@@ -1,0 +1,10 @@
+C:\Users\André\Documents\ErrorHandling\CSharp\CSharpDivideByZero\CSharpDivideByZero\bin\Debug\CSharpDivideByZero.exe.config
+C:\Users\André\Documents\ErrorHandling\CSharp\CSharpDivideByZero\CSharpDivideByZero\bin\Debug\CSharpDivideByZero.exe
+C:\Users\André\Documents\ErrorHandling\CSharp\CSharpDivideByZero\CSharpDivideByZero\bin\Debug\CSharpDivideByZero.pdb
+C:\Users\André\Documents\ErrorHandling\CSharp\CSharpDivideByZero\CSharpDivideByZero\obj\Debug\CSharpDivideByZero.csproj.AssemblyReference.cache
+C:\Users\André\Documents\ErrorHandling\CSharp\CSharpDivideByZero\CSharpDivideByZero\obj\Debug\CSharpDivideByZero.Form1.resources
+C:\Users\André\Documents\ErrorHandling\CSharp\CSharpDivideByZero\CSharpDivideByZero\obj\Debug\CSharpDivideByZero.Properties.Resources.resources
+C:\Users\André\Documents\ErrorHandling\CSharp\CSharpDivideByZero\CSharpDivideByZero\obj\Debug\CSharpDivideByZero.csproj.GenerateResource.cache
+C:\Users\André\Documents\ErrorHandling\CSharp\CSharpDivideByZero\CSharpDivideByZero\obj\Debug\CSharpDivideByZero.csproj.CoreCompileInputs.cache
+C:\Users\André\Documents\ErrorHandling\CSharp\CSharpDivideByZero\CSharpDivideByZero\obj\Debug\CSharpDivideByZero.exe
+C:\Users\André\Documents\ErrorHandling\CSharp\CSharpDivideByZero\CSharpDivideByZero\obj\Debug\CSharpDivideByZero.pdb
